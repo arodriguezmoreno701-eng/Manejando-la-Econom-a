@@ -60,8 +60,8 @@ a { text-decoration: none; }
 .brand img {
   width: 30px;
   height: 30px;
-  border-radius: 50%;
-  object-fit: cover;
+  border-radius: 8px;
+  object-fit: contain;
   border: 2px solid rgba(255,255,255,0.75);
   background: var(--blanco);
 }
@@ -143,8 +143,8 @@ a { text-decoration: none; }
 .mini-mark {
   width: 72px;
   height: 72px;
-  border-radius: 50%;
-  object-fit: cover;
+  border-radius: 12px;
+  object-fit: contain;
   object-position: center;
   border: 3px solid rgba(255,255,255,0.72);
   background: var(--blanco);
